@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "types": [
+      "@gluestack-ui/themed"
+    ]
+  },
+  "extends": "expo/tsconfig.base"
+}
